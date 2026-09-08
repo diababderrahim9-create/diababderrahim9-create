@@ -1,5 +1,5 @@
 # 💫 About Me:
-cyber security student <br>ctf player <br>currently working on developing some cybersec tools <br> developed some apps in hackathon competition <br><br>
+cyber security student <br>ctf player <br>currently working on developing some cybersec tools <br> developed some apps in hackathon competitions <br><br>
 
 
 ## 🌐 Socials:
