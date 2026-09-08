@@ -12,7 +12,7 @@ cyber security student <br>ctf player <br>currently working on developing some c
 ![](https://streak-stats.demolab.com/?user=diababderrahim9-create&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=diababderrahim9-create&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Some Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
